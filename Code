@@ -1,4 +1,5 @@
 a=5
 b=10
+int sum
 sum= a + b
 print(sum)
